@@ -1,8 +1,8 @@
-# Ali Mehdizadeh
-
 **Backend developer. Python, FastAPI, PostgreSQL.**
 
 I build APIs and the data layer behind them. M.Sc. in Software Engineering.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=02F794&width=700&lines=Just+a+duck+with+a+keyboard+and+unreasonable+ambitions.;One+commit+closer+to+world+domination.;Small+duck.+Big+dreams.+Production-ready+code.)](https://git.io/typing-svg)
 
 ## 🔨 Currently Building
 
